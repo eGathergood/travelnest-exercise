@@ -1,11 +1,11 @@
 import "./App.css";
 import React from "react";
 import Launch from "./Launch";
-import { Grid, Paper } from "@material-ui/core";
+import { Grid } from "@material-ui/core";
 
 function App() {
   return (
-    <Paper>
+    <div style={{ padding: 20 }}>
       <Grid container direction="column">
         <Grid item container>
           <Grid item xs={false} sm={2} />
@@ -14,7 +14,7 @@ function App() {
           </Grid>
         </Grid>
       </Grid>
-    </Paper>
+    </div>
   );
 }
 
