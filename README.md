@@ -7,8 +7,8 @@ The name, date and details of the launch
 The name, type and home port of each ship assigned to the launch.
 
 If more time was dedicated to the project I would make the following imporvements:
-- [ ] Add unit tests where needed
-- [ ] Improve error handeling
+- [ ] Add unit tests where appropriate
+- [ ] Improve error handling
 - [ ] Improve design and general UI
 - [ ] Add localisation
 
