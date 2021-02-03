@@ -6,6 +6,8 @@ The program will display the following details of the latest SpaceX launch:
 The name, date and details of the launch
 The name, type and home port of each ship assigned to the launch.
 
+<img width="1370" alt="Screenshot 2021-02-03 at 10 49 01" src="https://user-images.githubusercontent.com/16786472/106737066-274f0f00-660e-11eb-9f88-9e7ad5e798d8.png">
+
 If more time was dedicated to the project I would make the following imporvements:
 - [ ] Add unit tests where appropriate
 - [ ] Improve error handling
